@@ -22,4 +22,4 @@ That screenshot is of the origonal
 
 
 ## License
-peoples2048 is licensed under the [MIT license.](https://github.com/yknot/2048/blob/master/LICENSE.txt)
+peoples2048 is licensed under the [MIT license.](https://github.com/yknot/peoples2048/blob/master/LICENSE.txt)
